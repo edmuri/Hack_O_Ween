@@ -9,14 +9,14 @@ website made by WiCys & Capture the Flame Web Development Team Lead Martha Barra
 
 Hack-O-Ween features 6 total challenges that were made to introduce fundamental cyber security topics and encourage an educational experience while keeping it on theme for Halloween. 
 
-**Spooky_Hunt**:
+**Spooky_Hunt**: OSINT Horror Movie Trivia
 
-**LinkedRooms**:
+**LinkedRooms**: Reverse Engineering Pointer Maze
 
-**Domonic_Themonics**:
+**Domonic_Themonics**: Web Exploitation featuring faulty javascript
 
-**Ruined_Language**:
+**Ruined_Language**: Cryptography Substitution Cipher
 
-**Intercepted_Transmission**:
+**Intercepted_Transmission**: Forensics Embedded Morse Code within audio
 
-**Found_Footage**:
+**Found_Footage**: Forensics Metadata manipulation
