@@ -7,6 +7,8 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Steghide](https://img.shields.io/badge/Steghide-4A4983?style=for-the-badge&logo=oracle&logoColor=white)
+![EXIFTool](https://img.shields.io/badge/EXIFTool-787F14?style=for-the-badge&logo=oracle&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
@@ -26,13 +28,22 @@ website.
 Hack-O-Ween features 6 total challenges that were made to introduce fundamental cyber security topics and encourage an educational experience while keeping it on theme for Halloween. 
 
 **Spooky_Hunt**: OSINT Horror Movie Trivia
+<div align="center">
+    <img src="./public/Spooky_Hunt.PNG">
+</div>
+
+**Ruined_Language**: Cryptography Substitution Cipher
+<div align="center">
+    <img src="./public/Ruined_Language.jpg">
+</div>
+
+**Found_Footage**: Forensics Metadata manipulation
+<div align="center">
+    <img src="./public/Found_Footage.jpg">
+</div>
 
 **LinkedRooms**: Reverse Engineering Pointer Maze
 
 **Domonic_Themonics**: Web Exploitation featuring faulty javascript
 
-**Ruined_Language**: Cryptography Substitution Cipher
-
 **Intercepted_Transmission**: Forensics Embedded Morse Code within audio
-
-**Found_Footage**: Forensics Metadata manipulation
