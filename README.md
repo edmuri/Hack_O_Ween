@@ -33,9 +33,6 @@ Hack-O-Ween features 6 total challenges that were made to introduce fundamental 
 </div>
 
 **Ruined_Language**: Cryptography Substitution Cipher
-<!-- <div align="center">
-    <img src="./public/Ruined_Language.jpg">
-</div> -->
 
 **Found_Footage**: Forensics Metadata manipulation
 <div align="center">
