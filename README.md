@@ -52,6 +52,7 @@ Each folder has the challenges as follows with the challenge write ups and the c
 </div>
 
 **Spooky Hunt Snippet**
+
 <img src="./public/Spooky_Hunt.PNG" width=300 height=300>
 
 
