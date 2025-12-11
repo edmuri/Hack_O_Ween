@@ -27,20 +27,33 @@ website.
 
 Hack-O-Ween features 6 total challenges that were made to introduce fundamental cyber security topics and encourage an educational experience while keeping it on theme for Halloween. 
 
-**Spooky_Hunt**: OSINT Horror Movie Trivia
+**Ruined_Language**: Cryptography Substitution Cipher  
+**LinkedRooms**: Reverse Engineering Pointer Maze  
+**Domonic_Themonics**: Web Exploitation featuring faulty javascript  
+**Intercepted_Transmission**: Forensics Embedded Morse Code within audio  
+**Spooky_Hunt**: OSINT Horror Movie Trivia  
+**Found_Footage**: Forensics Metadata manipulation  
+
+Each folder has the challenges as follows with the challenge write ups and the challenge files
+
+<pre> Challenge/ 
+        ├── < ChallengeName >.pdf/  
+        ├── assets/ 
+            ├── toMake/ 
+            |   └── <  >
+            └── < Challenge File >
+</pre>
+
+--- 
+
+<div align="center"> Found Footage Screenshot </div>
 <div align="center">
-    <img src="./public/Spooky_Hunt.PNG">
+    <img src="./public/Found_Footage.jpg" width=500 height=300>
 </div>
 
-**Ruined_Language**: Cryptography Substitution Cipher
+**Spooky Hunt Snippet**
+<img src="./public/Spooky_Hunt.PNG" width=300 height=300>
 
-**Found_Footage**: Forensics Metadata manipulation
-<div align="center">
-    <img src="./public/Found_Footage.jpg">
-</div>
 
-**LinkedRooms**: Reverse Engineering Pointer Maze
 
-**Domonic_Themonics**: Web Exploitation featuring faulty javascript
 
-**Intercepted_Transmission**: Forensics Embedded Morse Code within audio
