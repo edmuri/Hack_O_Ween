@@ -51,10 +51,10 @@ Each folder has the challenges as follows with the challenge write ups and the c
     <img src="./public/Found_Footage.jpg" width=500 height=300>
 </div>
 
-**Spooky Hunt Snippet**
-
-<img src="./public/Spooky_Hunt.PNG" width=300 height=300>
-
+<div align="center"> Spooky Hunt Screenshot </div>
+<div align="center">
+    <img src="./public/Spooky_Hunt.PNG" width=300 height=300>
+</div>
 
 
 
